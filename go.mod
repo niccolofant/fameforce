@@ -12,7 +12,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/spf13/viper v1.16.0
 	github.com/stretchr/testify v1.8.4
-	go.uber.org/zap v1.24.0
+	go.uber.org/zap v1.26.0
 	gorm.io/driver/postgres v1.5.2
 	gorm.io/gorm v1.25.1
 )
